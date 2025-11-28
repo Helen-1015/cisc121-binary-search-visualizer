@@ -228,7 +228,7 @@ So every time the user clicks, the function runs and the outputs are updated.
 # 5. Online Demo Links
 
 - GitHub: https://github.com/Helen-1015/cisc121-binary-search-visualizer  
-- Hugging Face Space: <YOUR_HF_LINK>  
+- Hugging Face Space: https://huggingface.co/spaces/helen1015/cisc121-binary-search-visualizer 
 
 ---
 
@@ -308,6 +308,7 @@ Final testing and verification done by me.
 - **Name:** Hailin Zhang  
 - **Course:** CISC 121 – Algorithm Visualization Project  
 - **Algorithm:** Binary Search  
+
 
 
 
