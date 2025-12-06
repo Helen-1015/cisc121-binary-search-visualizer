@@ -283,7 +283,8 @@ Screenshots are in `Screenshots/`.
 
 ---
 
-# 7. AI Usage Declaration
+# 7. Acknowledgments (AI Usage Declaration)
+
 
 AI tool used: **ChatGPT (OpenAI)**  
 
@@ -308,6 +309,7 @@ Final testing and verification done by me.
 - **Name:** Hailin Zhang  
 - **Course:** CISC 121 – Algorithm Visualization Project  
 - **Algorithm:** Binary Search  
+
 
 
 
